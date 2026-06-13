@@ -513,6 +513,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Perplexity](https://github.com/tanigami/mcp-server-perplexity)** - Interacting with Perplexity
 - **[Poland KRS](https://github.com/pkolawa/krs-poland-mcp-server)** - Access to Polish National Court Register (KRS)—the government's authoritative registry of all businesses, foundations, and other legal entities.
 - **[Pollinations](https://github.com/pollinations/model-context-protocol)** - Multimodal MCP server for generating images, audio, and text with no authentication required
+- **[Prismix MCP Directory](https://prismix.dev/mcp)** - Curated directory of 500+ MCP servers with GitHub discovery, per-server release tracking, and bundle collections (group servers into reusable sets).
 - **[Phabricator](https://github.com/baba786/phabricator-mcp-server)** - Interacting with Phabricator API
 - **[PiAPI](https://github.com/apinetwork/piapi-mcp-server)** - PiAPI MCP server makes user able to generate media content with Midjourney/Flux/Kling/Hunyuan/Udio/Trellis directly from Claude or any other MCP-compatible apps.
 - **[PiloTY](https://github.com/yiwenlu66/PiloTY)** - AI pilot for PTY operations that enables agents to control interactive terminals with stateful sessions, SSH connections, and background process management
